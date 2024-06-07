@@ -1,4 +1,4 @@
-# Iosevkatermss17 WebFont 29.2.0
+# Iosevkatermss17 WebFont 30.1.2
 
 ## How to use
 
